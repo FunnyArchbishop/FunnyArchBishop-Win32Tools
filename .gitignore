@@ -1,0 +1,61 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.vcxproj*
+*.vcxproj.user
+*.vcxproj.filters
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.lib
+*.exp
+*.aps
+*.ncb
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+*.ipch
+
+# Windows
+Thumbs.db
+Desktop.ini
+[Dd]esktop.ini
+
+# VS Code
+.vscode/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
